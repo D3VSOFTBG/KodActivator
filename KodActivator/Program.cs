@@ -16,7 +16,7 @@ namespace KodActivator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new KA());
+            Application.Run(new KodActivator());
         }
     }
 }

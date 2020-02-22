@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace KodActivator
 {
-    public partial class KA : Form
+    public partial class KodActivator : Form
     {
-        public KA()
+        public KodActivator()
         {
             InitializeComponent();
         }
